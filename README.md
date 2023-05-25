@@ -1,12 +1,10 @@
-### Hey there.  
+### Hey!
 
+I'm Asterisk. I wrote some [actual docs](https://blend-docs.shinken.studio) for [blendOS](https://blendos.co) and I'm a Linux nerd.
 
-Asterisk, Hacknet extension and Python dev.  
+I do Python shit too and I made a [few games](https://ast3risk.itch.io), but generally I don't do much dev work
 
-
-I work on small projects from tiem to time and I play a lot of games.  
-
-You can reach me through my [discord](https://discord.gg/ubzQbMBF94)
+You can [email me](mailto:spacedude609@pm.me) or reach me on [Matrix](https://matrix.to/#/@ast3risk:matrix.org) and [Discord](https://discord.com/users/789561823863111742).
 
 
 
