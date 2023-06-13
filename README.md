@@ -6,7 +6,7 @@ I do Python shit too and I made a [few games](https://ast3risk.itch.io), but gen
 
 You can [email me](mailto:spacedude609@pm.me) or reach me on [Matrix](https://matrix.to/#/@ast3risk:matrix.org) and [Discord](https://discord.com/users/789561823863111742).
 
-![Asterisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ast3risk-ops&show_icons=true&theme=radical&bg_color=00000000)
+[![Asterisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ast3risk-ops&show_icons=true&theme=radical&bg_color=00000000)](https://github-readme-stats.vercel.app)
 
 <!--
 **Ast3risk-ops/ast3risk-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
