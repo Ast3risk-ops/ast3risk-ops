@@ -8,7 +8,7 @@
 </div>
 <br>
 
-I'm Asterisk. I wrote some [actual docs](https://blend-docs.shinken.studio) for [blendOS](https://blendos.co) and I'm a Linux nerd.
+I wrote some [actual docs](https://blend-docs.shinken.studio) for [blendOS](https://blendos.co) and I'm a Linux nerd.
 
 I do Python shit too and I made a [few games](https://ast3risk.itch.io), but generally, I don't do much dev work
 
@@ -17,19 +17,3 @@ You can [email me](mailto:spacedude609@pm.me) or reach me on [Matrix](https://ma
 I also have a <a rel="me" href="https://social.linux.pizza/@asterisk">Mastodon</a>.
 
 [![Asterisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ast3risk-ops&show_icons=true&theme=radical&bg_color=00000000)](https://github-readme-stats.vercel.app)
-
-<!--
-**Ast3risk-ops/ast3risk-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you
- started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
