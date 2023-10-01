@@ -2,8 +2,11 @@
   <h1>👋 Hi, I'm Asterisk!</h1>
  <br>
   <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/status/789561823863111742" alt="status"></a>
+  <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/playing/789561823863111742" alt="playing"></a>
+  <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/vscode/789561823863111742" alt="vscode"></a>
 </br>
 </div>
+<br>
 
 I'm Asterisk. I wrote some [actual docs](https://blend-docs.shinken.studio) for [blendOS](https://blendos.co) and I'm a Linux nerd.
 
