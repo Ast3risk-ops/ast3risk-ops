@@ -1,8 +1,13 @@
-### Hey!
+<div align="center">
+  <h1>👋 Hi, I'm Asterisk!</h1>
+ <br>
+  <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/status/789561823863111742" alt="status"></a>
+</br>
+</div>
 
 I'm Asterisk. I wrote some [actual docs](https://blend-docs.shinken.studio) for [blendOS](https://blendos.co) and I'm a Linux nerd.
 
-I do Python shit too and I made a [few games](https://ast3risk.itch.io), but generally I don't do much dev work
+I do Python shit too and I made a [few games](https://ast3risk.itch.io), but generally, I don't do much dev work
 
 You can [email me](mailto:spacedude609@pm.me) or reach me on [Matrix](https://matrix.to/#/@ast3risk:matrix.org) and [Discord](https://discord.com/users/789561823863111742).
 
