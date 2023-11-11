@@ -17,3 +17,4 @@ You can [email me](mailto:spacedude609@pm.me) or reach me on [Matrix](https://ma
 I also have a <a rel="me" href="https://social.linux.pizza/@asterisk">Mastodon</a>.
 
 [![Asterisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ast3risk-ops&show_icons=true&theme=radical&bg_color=00000000)](https://github-readme-stats.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ast3risk-ops&theme=radical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
