@@ -14,7 +14,7 @@ Currently a contributor at [AtlasOS](https://atlasos.net) and co-creator of [Pre
 
 I do Python shit too and I made a [few games](https://ast3risk.itch.io), but generally, I don't do much dev work.
 
-You can [email me](mailto:spacedude609@pm.me) or reach me on [Matrix](https://matrix.to/#/@ast3risk:matrix.org) and [Discord](https://discord.com/users/789561823863111742).
+You can [email me](https://blog-9b6.pages.dev/contact) or reach me on [Matrix](https://matrix.to/#/@ast3risk:matrix.org) and [Discord](https://discord.com/users/789561823863111742).
 
 I also have a <a rel="me" href="https://social.linux.pizza/@asterisk">Mastodon</a>.
 
