@@ -10,7 +10,9 @@
 
 I wrote some [actual docs](https://blend-docs.shinken.studio) for [blendOS](https://blendos.co) and I'm a Linux nerd.
 
-I do Python shit too and I made a [few games](https://ast3risk.itch.io), but generally, I don't do much dev work
+Currently a contributor at [AtlasOS](https://atlasos.net) and co-creator of [PreBook](https://prebook.pages.dev).
+
+I do Python shit too and I made a [few games](https://ast3risk.itch.io), but generally, I don't do much dev work.
 
 You can [email me](mailto:spacedude609@pm.me) or reach me on [Matrix](https://matrix.to/#/@ast3risk:matrix.org) and [Discord](https://discord.com/users/789561823863111742).
 
