@@ -8,15 +8,29 @@
 </div>
 <br>
 
-I wrote some [actual docs](https://blend-docs.shinken.studio) for [blendOS](https://blendos.co) and I'm a Linux nerd.
 
-Currently a contributor at [AtlasOS](https://atlasos.net) and co-creator of [PreBook](https://prebook.pages.dev).
+<div align="center">
+  <h1>Projects</h1>
+</div>
 
-I do Python shit too and I made a [few games](https://ast3risk.itch.io), but generally, I don't do much dev work.
+- My [website](https://asterisk.lol). ([Source](https://github.com/ast3risk-ops/website))
 
-You can [email me](https://blog-9b6.pages.dev/contact) or reach me on [Matrix](https://matrix.to/#/@ast3risk:matrix.org) and [Discord](https://discord.com/users/789561823863111742).
+- I wrote some [actual docs](https://docs.blendos.co) for [blendOS](https://blendos.co),
 
-I also have a <a rel="me" href="https://social.linux.pizza/@asterisk">Mastodon</a>.
+- Currently a contributor at [AtlasOS](https://atlasos.net) and co-creator of [PreBook](https://prebook.asterisk.lol).
+
+- I do Python shit too and I made a [few games](https://ast3risk.itch.io), but generally, I don't do much dev work.
+
+
+<div align="center">
+<h1>Contact</h1>
+</div>
+
+- You can [email me](mailto:me@asterisk.lol) ([PGP key](https://i.asterisk.lol/l/pgpkey)) or reach me on [Matrix](https://matrix.to/#/@ast3risk:matrix.org) and [Discord](https://discord.com/users/789561823863111742).
+
+- I also have a <a rel="me" href="https://social.linux.pizza/@asterisk">Mastodon</a>.
+
+--------------
 
 [![Asterisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ast3risk-ops&show_icons=true&theme=radical&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github-readme-stats.vercel.app)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ast3risk-ops&theme=radical&bg_color=00000000)](https://github-readme-stats.vercel.app)
