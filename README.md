@@ -15,7 +15,7 @@
 
 - My [website](https://asterisk.lol). ([Source](https://github.com/ast3risk-ops/website))
 
-- I wrote some [actual docs](https://docs.blendos.co) for [blendOS](https://blendos.co),
+- I wrote some [actual docs](https://docs.blendos.co) for [blendOS](https://blendos.co).
 
 - Currently a contributor at [AtlasOS](https://atlasos.net) and co-creator of [PreBook](https://prebook.asterisk.lol).
 
