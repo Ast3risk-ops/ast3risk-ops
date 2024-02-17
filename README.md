@@ -4,6 +4,7 @@
   <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/status/789561823863111742" alt="status"></a>
   <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/playing/789561823863111742" alt="playing"></a>
   <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/vscode/789561823863111742" alt="vscode"></a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=ast3risk-ops&color=blueviolet"></a>
 </br>
 </div>
 <br>
