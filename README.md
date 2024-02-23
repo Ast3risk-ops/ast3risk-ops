@@ -6,32 +6,32 @@
   <a href="https://statusbadges.me"><img src="https://api.statusbadges.me/badge/vscode/789561823863111742" alt="vscode"></a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=ast3risk-ops&color=blueviolet"></a>
 </br>
-</div>
+
 <br>
 
-
+<details>
+<summary>Socials</summary>
 <div align="center">
-  <h1>Projects</h1>
-</div>
+<br>
+<a href="mailto:me@asterisk.lol""><img alt="Email Badge" src="https://img.shields.io/badge/Email-me@asterisk.lol-%236D4AFF?style=flat&logo=protonmail"></a>
+<a href="https://i.asterisk.lol/l/pgpkey"><img alt="PGP Badge" src="https://img.shields.io/badge/View-My_PGP_key-%230093DD?style=flat&logo=gnuprivacyguard"></a>
+<a href="https://social.linux.pizza/asterisk"><img alt="Mastodon Badge" src="https://img.shields.io/badge/Read-My_Mastodon-%236364FF?style=flat&logo=mastodon"></a>
+<a href="https://discord.com/users/789561823863111742"><img alt="Discord Badge" src="https://img.shields.io/badge/Message-Discord-%235865F2?style=flat&logo=discord"></a>
+<a href="https://matrix.to/#/@ast3risk:matrix.org/"><img alt="Matrix Badge" src="https://img.shields.io/badge/Message-Matrix-%230DBD8B?style=flat&logo=element"></a>
+</br>
+</div>  
+</details>
 
-- My [website](https://asterisk.lol). ([Source](https://github.com/ast3risk-ops/website))
+<details>
+<summary>Links</summary>
+<br>
+<a href="https://asterisk.lol"><img alt="Static Badge" src="https://img.shields.io/badge/Website-%238b5cf6?style=for-the-badge"></a>
 
-- I wrote some [actual docs](https://docs.blendos.co) for [blendOS](https://blendos.co).
-
-- Currently a contributor at [AtlasOS](https://atlasos.net) and co-creator of [PreBook](https://prebook.asterisk.lol).
-
-- I do Python shit too and I made a [few games](https://ast3risk.itch.io), but generally, I don't do much dev work.
+  
+</details>
 
 
-<div align="center">
-<h1>Contact</h1>
-</div>
 
-- You can [email me](mailto:me@asterisk.lol) ([PGP key](https://i.asterisk.lol/l/pgpkey)) or reach me on [Matrix](https://matrix.to/#/@ast3risk:matrix.org) and [Discord](https://discord.com/users/789561823863111742).
-
-- I also have a <a rel="me" href="https://social.linux.pizza/@asterisk">Mastodon</a>.
-
---------------
-
+-------
 [![Asterisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ast3risk-ops&show_icons=true&theme=radical&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github-readme-stats.vercel.app)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ast3risk-ops&theme=radical&bg_color=00000000)](https://github-readme-stats.vercel.app)
