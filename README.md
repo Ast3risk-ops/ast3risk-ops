@@ -25,8 +25,8 @@
 <details>
 <summary>Links</summary>
 <br>
-<a href="https://asterisk.lol"><img alt="Static Badge" src="https://img.shields.io/badge/Website-%238b5cf6?style=for-the-badge"></a>
 
+<a href="https://asterisk.lol">My website</a> \- <a href="https://files.asterisk.lol">My files</a> \- <a href="https://u.asterisk.lol">My shares</a> \- <a href="https://guides.asterisk.lol">My guides</a>
   
 </details>
 
