@@ -1,6 +1,11 @@
+credits = '<!-- Powered by https://doteki.org -->'
+
+
 [sections.blog]
 plugin = "feed"
 url = "https://asterisk.lol/index.xml"  # Replace with your feed.
+separator = "•"
+append_text = "\n\nMore on [asterisk.lol](https://asterisk.lol)"
 
 [sections.last_updated]
 plugin = "current_date"
