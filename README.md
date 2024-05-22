@@ -30,15 +30,6 @@
   
 </details>
 
-<details>
-  <summary>Blog Posts</summary>
-  <br>
-
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
-
-</details>
-
 
 
 
