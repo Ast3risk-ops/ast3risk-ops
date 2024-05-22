@@ -33,8 +33,8 @@
 <details>
   <summary>Blog Posts</summary>
   <br>
-  <!-- blog start -->
-  <!-- blog end -->
+  
+<img src="https://metrics.lecoq.io/ast3risk-ops?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&pagespeed=false&pagespeed.url=https%3A%2F%2Fasterisk.lol&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&rss=false&rss.source=https%3A%2F%2Fasterisk.lol%2Findex.xml&rss.limit=4&config.timezone=America%2FToronto" alt="Metrics">
 </details>
 
 
@@ -45,8 +45,3 @@
 -------
 [![Asterisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ast3risk-ops&show_icons=true&theme=radical&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github-readme-stats.vercel.app)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ast3risk-ops&theme=radical&bg_color=00000000)](https://github-readme-stats.vercel.app)
-
----------
-<sub>Last updated on <!-- last_updated start -->2024-05-22<!-- last_updated end --></sub>
-
-<!-- Powered by https://doteki.org -->
