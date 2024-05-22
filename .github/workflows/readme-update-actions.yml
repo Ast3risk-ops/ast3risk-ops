@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Fetch posts
-        uses: armingli/readme-update-actions@v2
+        uses: armingli/readme-update-actions@v1.1.1
         with:
           rss_list: "https://asterisk.lol/index.xml" # required
           max_post: 3  # optional, default 5 
