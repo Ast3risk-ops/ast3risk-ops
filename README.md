@@ -30,8 +30,21 @@
   
 </details>
 
+<details>
+  <summary>Blog Posts</summary>
+  <br>
+  <!-- blog start -->
+  <!-- blog end -->
+</details>
+
+
+
+
 
 
 -------
 [![Asterisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ast3risk-ops&show_icons=true&theme=radical&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github-readme-stats.vercel.app)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ast3risk-ops&theme=radical&bg_color=00000000)](https://github-readme-stats.vercel.app)
+
+---------
+<sub>Last updated on <!-- last_updated start --><!-- last_updated end --></sub>
