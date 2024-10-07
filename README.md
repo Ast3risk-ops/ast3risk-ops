@@ -33,7 +33,7 @@
 <details>
   <summary>Stuff I've worked on</summary>
   <br>
-<a href="https://blendos.co">blendOS</a> - <a href="https://docs.atlasos.net">AtlasOS Docs</a>
+<a href="https://blendos.co">blendOS</a> - <a href="https://docs.atlasos.net">AtlasOS Docs</a> - <a href="https://caltrop.asterisk.lol">The Caltrop Network</a>
   
 </details>
 
