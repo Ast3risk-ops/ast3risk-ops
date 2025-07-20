@@ -5,6 +5,12 @@
   <a href="https://statusbadges.me/"><img src="https://api.statusbadges.me/badge/playing/789561823863111742" alt="playing"></a>
   <a href="https://statusbadges.me/"><img src="https://api.statusbadges.me/badge/vscode/789561823863111742" alt="vscode"></a>
 </br>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ast3risk-ops/ast3risk-ops/raw/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ast3risk-ops/ast3risk-ops/raw/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Ast3risk-ops/ast3risk-ops/raw/refs/heads/output/github-contribution-grid-snake.svg" />
+</picture>
+<hr>
 </div>
 <br>
 
