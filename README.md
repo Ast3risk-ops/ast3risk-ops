@@ -22,5 +22,5 @@
 
 ------
 <div align="center">
-https://asterisk.lol
+<h2>https://asterisk.lol</h2>
 </div>
