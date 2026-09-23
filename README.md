@@ -12,8 +12,8 @@
 <hr>
 </div>
 
-[![Asterisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ast3risk-ops&show_icons=true&theme=radical&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github-readme-stats.vercel.app)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ast3risk-ops&theme=radical&bg_color=00000000)](https://github-readme-stats.vercel.app)
+[![Asterisk's GitHub stats](https://ghstats.dev/api/card?username=ast3risk-ops&show_icons=true&theme=radical&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github-readme-stats.vercel.app)
+[![Top Langs](https://ghstats.dev/api/langs/?username=ast3risk-ops&theme=radical&bg_color=00000000&layout=donut_vertical)](https://github-readme-stats.vercel.app)
 
 ------
 <div align="center">
