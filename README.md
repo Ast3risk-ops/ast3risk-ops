@@ -10,7 +10,7 @@
 </picture>
   </a>
   <br>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=ast3risk-ops&color=blueviolet" /></a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img alt="Profile Views Counter" src="https://komarev.com/ghpvc/?username=ast3risk-ops&color=blueviolet" /></a>
 <hr>
 </div>
 
